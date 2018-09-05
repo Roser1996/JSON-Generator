@@ -1,0 +1,1 @@
+[{"name":"Roser","age":22},{"skills":"C++","skills":"Python","skills":"Swift","skills":"objective C","website":"www.github.com","path":["back end","algorithm","ios","linux"],"short-array":[1,188900967593046,3.14159]},false]
