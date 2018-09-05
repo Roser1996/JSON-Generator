@@ -11,7 +11,7 @@ using namespace std;
 
 int main() {
 	auto writer = new JsonWriter();
-	writer->ConfigureCompressOutput();
+	// writer->ConfigureCompressOutput();
 	writer->StartArray();
 
 	writer->StartShortObject();
